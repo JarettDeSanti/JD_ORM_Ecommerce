@@ -2,7 +2,7 @@
 
 ## Description
 
-This readme contains information on the Object-Relation Mapping (E-commerce) project. The back end for this app allows for adding a database name, MySQL usernme and password to an environment variable file in order to connect to a database using Sequelize. The user will enter schema and seed commands to create a database that is seeded with test data. The user will also start the server by typing "node server.js" in the command line. The user will then be able to view the data in Insomnia Core. 
+This readme contains information on the Object-Relation Mapping (E-commerce) project. The back end for this app allows for adding a database name, MySQL username and password to an environment variable file in order to connect to a database using Sequelize. The user will enter schema and seed commands to create a database that is seeded with test data. The user will also start the server by typing "node server.js" in the command line. The user will then be able to view the data in Insomnia Core. 
 
 ## Installation
 
@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-In order to use this ORM (E-commerce) app, the user must open the server.js file located in this repository and run the command "node server.js" in the terminal. The user will also source the schema.sql file in the terminal and run seeds using the command "npm run seed". The user then opens the application in Insomnia Core. The test data can ve viewed in Insomnia Core and data can be created, updated, and deleted in the database.
+In order to use this ORM (E-commerce) app, the user must open the server.js file located in this repository and run the command "node server.js" in the terminal. The user will also source the schema.sql file in the terminal and run seeds using the command "npm run seed". The user then opens the application in Insomnia Core. The test data can be viewed in Insomnia Core and data can be created, updated, and deleted in the database.
 
 ## Links
 
@@ -43,7 +43,7 @@ Video demonstrating POST, PUT, and DELETE routes for categories, products, and t
 
 ## Screenshot
 
-
+![alt text](InsomniaORM.png)
 
 ## Credits
 
